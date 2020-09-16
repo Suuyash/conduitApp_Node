@@ -15,7 +15,7 @@
     "express": "^4.16.4",
     "express-jwt": "^5.3.1",
     "jsonwebtoken": "^8.3.0",
-    "sequelize": "^4.41.0",
+    "sequelize": "^5.15.1",
     "slug": "^0.9.2",
     "sqlite3": "^4.0.3"
   }
